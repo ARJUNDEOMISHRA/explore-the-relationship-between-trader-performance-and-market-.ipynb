@@ -1,0 +1,2 @@
+# explore-the-relationship-between-trader-performance-and-market-.ipynb
+This project analyzes cryptocurrency trading behavior by examining how market sentiment—classified as Greed or Fear—influences trader decisions and performance. Using historical trading data, the analysis focuses on:  Profitability and Risk-Taking Patterns: Symbol-Based Analysis (BTC vs ETH): Trader Consistency Profiling,Rolling Time-Series Trends:
